@@ -52,5 +52,6 @@ This was a bootcamp capstone project. It was not integrated with a live student 
 Predictive modelling methodology and evaluation metrics should be documented separately before making claims about model performance.
 # Acknowledgements
 This project was completed collaboratively by INNOVATHERS (Group 13) as part of the Tech4Dev Women Techsters Bootcamp, Cohort 5.1.
-Responsible Use
+# Responsible Use
+Student-risk indicators should support early, non-punitive assistance rather than automatic penalties. Any real-world implementation would require appropriate privacy protections, validation and human oversight.
 Student-risk indicators should support early, non-punitive assistance rather than automatic penalties. Any real-world implementation would require appropriate privacy protections, validation and human oversight.</WritingBlock>
